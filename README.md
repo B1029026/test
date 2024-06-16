@@ -29,5 +29,5 @@ Using the run.sh script to generate the training log and models of different ver
 Then use the ipython notebook plot.ipynb to view the results.
 	
 ![alt text](vgg_plot.png)
-
+.
 
